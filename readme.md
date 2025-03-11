@@ -28,11 +28,17 @@ This is a personal portfolio website created using HTML and CSS. It showcases my
 
 portfolio/
 │── index.html
+
 │── style.css
+
 │── images/
-│── projects/
+
+│── projects.html
+
 │── contact.html
+
 │── about.html
+
 ```
 
 ## Customization
