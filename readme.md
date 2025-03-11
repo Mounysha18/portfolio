@@ -39,7 +39,7 @@ portfolio/
 
 │── about.html
 
-```
+
 
 ## Customization
 - Modify `index.html` to update content.
