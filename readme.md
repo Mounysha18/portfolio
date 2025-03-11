@@ -1,3 +1,15 @@
+Company:codtech-it solution
+ 
+ Name:Mounysha S
+ 
+ Intern id:CT08UKC
+ 
+ Domain:front-end development
+ 
+ Duration:4 weeks
+ 
+ Mentor:neela santosh
+ 
 # Portfolio Website
 
 This is a personal portfolio website created using HTML and CSS. It showcases my projects, skills, and contact information.
